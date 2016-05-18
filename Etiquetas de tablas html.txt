@@ -1,0 +1,1 @@
+table,thead,tr,th,td estas son las etiquetas utilizadas para cuando necesitamos hacer tablas
